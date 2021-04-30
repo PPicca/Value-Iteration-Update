@@ -1,4 +1,4 @@
-# Exercise part of MITx - Machine Learning with Python (Lecture 17 - Reinforcement Learning 1)
+# Exercise of Value Iteration Update - Reinforcement Learning
 
 The insight was creating an array to hold all values for the 5 states and 3 actions (stay, right or left).
 And using those matrix to update V, values, for every iteration, using the Value Iteration Update formula.
